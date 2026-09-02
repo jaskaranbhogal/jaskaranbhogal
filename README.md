@@ -1,7 +1,6 @@
 # Hi, I'm Jaskaran Bhogal
-- 🏫 Undergraduate computer science student at the CUNY - Queens College
-- 🎓 Expected Graduation: Fall 2026
-- 💭 Currently working at Unadat as a SWE Intern & Team-Lead using PHP, HTML/CSS, and JS.
+- 🏫 Undergraduate computer science student at SUNY- Farmingdale State College
+- 🎓 Expected Graduation: Spring 2027
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaskaranbhogal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhogalj03@gmail.com) 
