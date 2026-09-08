@@ -1,10 +1,10 @@
 # Hi 👋, I'm Jaskaran Bhogal
 
-### Passionate Developer
+### Passionate Developer at Farmingdale State College 
 
 - 🔭 I'm currently working on **LeaseGuard, a Full-Stack mobile application allowing landlord and tenant communication to be perfected**
 
-- 📫 How to reach me **bhogalj03@gmail.com**
+- 📫 How to reach me **bhogalj03@gmail.com** **bhogjs@farmingdale.edu**
 
 - 📄 Know about my experiences **[https://docs.google.com/document/d/1CtoDyDpZlJZgy2aOj7Iamsptjps9IgyTuTR9oLmT8g0/edit?usp=sharing](https://docs.google.com/document/d/1CtoDyDpZlJZgy2aOj7Iamsptjps9IgyTuTR9oLmT8g0/edit?usp=sharing)**
 
