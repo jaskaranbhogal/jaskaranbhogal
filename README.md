@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **bhogalj03@gmail.com** **bhogjs@farmingdale.edu**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1CtoDyDpZlJZgy2aOj7Iamsptjps9IgyTuTR9oLmT8g0/edit?usp=sharing](https://docs.google.com/document/d/1CtoDyDpZlJZgy2aOj7Iamsptjps9IgyTuTR9oLmT8g0/edit?usp=sharing)**
+- 📄 Know about my experiences **[https://jaskaranbhogal.github.io/Portfolio/JaskaranBhogalResume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
